@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Frontend Engineer with over 2 years of experience building web apps using JavaScript, Reactjs and Angular. I've worked on several web apps that's currently on production and currently I'm learning mobile app development.
+
 <!--
 **Midetech/Midetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
