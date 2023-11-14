@@ -2,6 +2,14 @@
 
 Frontend Engineer with 4 years of experience building web apps using JavaScript, Reactjs and Angular. I've worked on several web apps that's currently on production and currently I'm learning mobile app development.
 
+
+Here are some ideas to get you started:
+
+🌱 I’m currently learning Flutter with Dart
+- 💬 Ask me about Web technologies
+- 📫 How to reach me: faginorish@gmail.com
+- 😄 Pronouns: He/Him
+
 <!--
 **Midetech/Midetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
