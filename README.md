@@ -5,7 +5,7 @@ Frontend Engineer with 4 years of experience building web apps using JavaScript,
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning Flutter with Dart
+🌱 I’m currently exploring Flutter with Dart
 - 💬 Ask me about Web technologies
 - 📫 How to reach me: faginorish@gmail.com
 - 😄 Pronouns: He/Him
