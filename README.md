@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Frontend Engineer with 4 years of experience building web apps using JavaScript, Reactjs and Angular. I've worked on several web apps that's currently on production and currently I'm learning mobile app development.
+## I'm Sunday Olomitutu
 
+Frontend Engineer with 5+ years of experience building web apps using JavaScript, Reactjs and Angular. I've worked on several web apps that's currently on production and currently I'm exploring mobile app development.
 
-Here are some ideas to get you started:
 
 🌱 I’m currently exploring Flutter with Dart
 - 💬 Ask me about Web technologies
