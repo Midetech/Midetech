@@ -71,13 +71,13 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/midetech/midetech/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!--
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@developermide&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
-<!--
+
 **Midetech/Midetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
